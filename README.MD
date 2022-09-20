@@ -21,3 +21,11 @@ Underline 2
 - formato __bold o stronge__ de la segunda forma.
 - formato ~~tachado~~, formato normal.
 - aqui podemos usar **formato italico**, pero tambien **bold** y ~~tachado~~.
+
+# Listas
+1. Esto es un item de lista Ordenanada. 
+2. Esto es un item de lista Ordenanada.
+3. Esto es un item de lista Ordenanada.
+- Esto es un item de lista desordenada.
+- Esto es un item de lista desordenada.
+- Esto es un item de lista desordenada.
